@@ -1,0 +1,5 @@
+name: 'test action'
+description: 'shows a tree'
+runs:
+    using: 'node14'
+    main: 'index.js'
